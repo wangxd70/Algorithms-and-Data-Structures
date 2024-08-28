@@ -1,4 +1,4 @@
-# 计算机算法设计与分析
+# 计算机算法设计与分析习题解答
 
 ![封面](https://github.com/wangxd70/Problem-Set-of-Algorithms/blob/39e6523e0f1321685c1fd99aea98f6b243f5dd80/image/%E5%B0%81%E9%9D%A2.jpg)
 
